@@ -1,0 +1,3050 @@
+Transformation.anodo2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.anodo2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.shutter2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.detettore2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+   180
+     0
+
+Transformation.custom2world.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.anodo2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.shutter2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.detettore2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+   180
+     0
+
+Transformation.custom2world.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.anodo2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.shutter2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.detettore2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+   180
+     0
+
+Transformation.custom2world.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.anodo2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+    30
+     0
+     0
+
+Transformation.shutter2custom.R
+    0.8660   -0.5000         0
+    0.5000    0.8660         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.detettore2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+   180
+     0
+
+Transformation.custom2world.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+   180
+   180
+
+Transformation.anodo2custom.R
+    1.0000    0.0000    0.0000
+   -0.0000    1.0000    0.0000
+   -0.0000   -0.0000    1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+   180
+   180
+
+Transformation.anodo2custom.R
+    1.0000    0.0000    0.0000
+   -0.0000    1.0000    0.0000
+   -0.0000   -0.0000    1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+   180
+   180
+
+Transformation.anodo2custom.R
+    1.0000    0.0000    0.0000
+   -0.0000    1.0000    0.0000
+   -0.0000   -0.0000    1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.anodo2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.anodo2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+   180
+     0
+
+Transformation.anodo2custom.R
+   -1.0000         0    0.0000
+         0    1.0000         0
+   -0.0000         0   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.anodo2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+   180
+     0
+
+Transformation.anodo2custom.R
+    1.0000   -0.0000   -0.0000
+   -0.0000   -1.0000    0.0000
+   -0.0000         0   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+   180
+     0
+
+Transformation.anodo2custom.R
+    1.0000   -0.0000   -0.0000
+   -0.0000   -1.0000    0.0000
+   -0.0000         0   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.anodo2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+     0
+   180
+
+Transformation.anodo2custom.R
+   -1.0000    0.0000    0.0000
+    0.0000    1.0000    0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.anodo2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+    90
+     0
+   180
+
+Transformation.anodo2custom.R
+    0.0000    1.0000    0.0000
+    1.0000   -0.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+    90
+     0
+   180
+
+Transformation.anodo2custom.R
+    0.0000    1.0000    0.0000
+    1.0000   -0.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+    90
+     0
+   180
+
+Transformation.anodo2custom.R
+    0.0000    1.0000    0.0000
+    1.0000   -0.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.shutter2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.anodo2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.shutter2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   150
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -0.8660   -0.5000
+         0    0.5000   -0.8660
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   210
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -0.8660    0.5000
+         0   -0.5000   -0.8660
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.detettore2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+   180
+     0
+     0
+
+Transformation.world2matlab.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+     0
+     0
+     0
+
+Transformation.custom2world.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+   180
+     0
+     0
+
+Transformation.detettore2custom.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.anodo2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+    30
+   180
+
+Transformation.anodo2custom.R
+    0.8660    0.0000   -0.5000
+         0   -1.0000   -0.0000
+   -0.5000    0.0000   -0.8660
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+     3
+   180
+
+Transformation.anodo2custom.R
+    0.9986    0.0000   -0.0523
+         0   -1.0000   -0.0000
+   -0.0523    0.0000   -0.9986
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+    13
+   180
+
+Transformation.anodo2custom.R
+    0.9744    0.0000   -0.2250
+         0   -1.0000   -0.0000
+   -0.2250    0.0000   -0.9744
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.anodo2custom.eulerAngle
+     0
+    13
+   180
+
+Transformation.anodo2custom.R
+    0.9744    0.0000   -0.2250
+         0   -1.0000   -0.0000
+   -0.2250    0.0000   -0.9744
+
+Transformation.shutter2custom.eulerAngle
+     0
+     0
+   180
+
+Transformation.shutter2custom.R
+    1.0000         0         0
+         0   -1.0000   -0.0000
+         0    0.0000   -1.0000
+
+Transformation.detettore2custom.eulerAngle
+     0
+     0
+     0
+
+Transformation.detettore2custom.R
+     1     0     0
+     0     1     0
+     0     0     1
+
+Transformation.custom2world.eulerAngle
+   180
+     0
+     0
+
+Transformation.custom2world.R
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+         0         0    1.0000
+
+Transformation.world2matlab.eulerAngle
+     0
+     0
+     0
+
+Transformation.world2matlab.R
+     1     0     0
+     0     1     0
+     0     0     1
+

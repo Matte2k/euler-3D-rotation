@@ -1,0 +1,9158 @@
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refWorld.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysCustom.refMatlab.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refMatlab.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysAnodo.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    6.0000
+
+Equipment.sysAnodo.refWorld.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     6
+
+Equipment.sysShutter.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    6.0000    6.0000    7.0000
+
+Equipment.sysShutter.refWorld.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysShutter.refMatlab.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysDetettore.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysDetettore.refWorld.orig
+   1.0e-14 *
+
+    0.1225
+         0
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   1.0e-14 *
+
+    0.1225
+         0
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refWorld.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysCustom.refMatlab.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refMatlab.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysAnodo.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    6.0000
+
+Equipment.sysAnodo.refWorld.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     6
+
+Equipment.sysShutter.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    6.0000    6.0000    7.0000
+
+Equipment.sysShutter.refWorld.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysShutter.refMatlab.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysDetettore.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysDetettore.refWorld.orig
+   1.0e-14 *
+
+    0.1225
+         0
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   1.0e-14 *
+
+    0.1225
+         0
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refWorld.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysCustom.refMatlab.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refMatlab.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysAnodo.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    6.0000
+
+Equipment.sysAnodo.refWorld.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     6
+
+Equipment.sysShutter.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    6.0000    6.0000    7.0000
+
+Equipment.sysShutter.refWorld.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysShutter.refMatlab.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     5
+
+Equipment.sysDetettore.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+    5.0000    5.0000    4.0000
+
+Equipment.sysDetettore.refWorld.orig
+    0.0000
+         0
+    5.0000
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+    5.0000    5.0000    6.0000
+
+Equipment.sysDetettore.refMatlab.orig
+    0.0000
+         0
+    5.0000
+
+Equipment.sysDetettore.refMatlab.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+    5.0000    5.0000    6.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refWorld.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysCustom.refMatlab.orig
+     0
+     0
+    10
+
+Equipment.sysCustom.refMatlab.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysAnodo.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    6.0000
+
+Equipment.sysAnodo.refWorld.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   -5.0000
+    5.0000
+    5.0000
+
+Equipment.sysAnodo.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     6
+
+Equipment.sysShutter.refCustom.versor
+    5.8660    4.5000    5.0000
+    5.5000    5.8660    5.0000
+    6.0000    6.0000    7.0000
+
+Equipment.sysShutter.refWorld.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refWorld.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysShutter.refMatlab.orig
+   -5.0000
+    5.0000
+    4.0000
+
+Equipment.sysShutter.refMatlab.versor
+   -5.8660   -4.5000   -5.0000
+    5.5000    5.8660    5.0000
+    4.0000    4.0000    3.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     5
+
+Equipment.sysDetettore.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+    5.0000    5.0000    4.0000
+
+Equipment.sysDetettore.refWorld.orig
+    0.0000
+         0
+    5.0000
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+    5.0000    5.0000    6.0000
+
+Equipment.sysDetettore.refMatlab.orig
+    0.0000
+         0
+    5.0000
+
+Equipment.sysDetettore.refMatlab.versor
+    1.0000    0.0000    0.0000
+         0    1.0000         0
+    5.0000    5.0000    6.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refWorld.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refMatlab.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+   100
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+   100   100   101
+
+Equipment.sysAnodo.refWorld.orig
+     0
+     0
+   100
+
+Equipment.sysAnodo.refWorld.versor
+     1     0     0
+     0     1     0
+   100   100   101
+
+Equipment.sysAnodo.refMatlab.orig
+     0
+     0
+   100
+
+Equipment.sysAnodo.refMatlab.versor
+     1     0     0
+     0     1     0
+   100   100   101
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+    90
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+    90    90    91
+
+Equipment.sysShutter.refWorld.orig
+     0
+     0
+    90
+
+Equipment.sysShutter.refWorld.versor
+     1     0     0
+     0     1     0
+    90    90    91
+
+Equipment.sysShutter.refMatlab.orig
+     0
+     0
+    90
+
+Equipment.sysShutter.refMatlab.versor
+     1     0     0
+     0     1     0
+    90    90    91
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refWorld.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refWorld.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refMatlab.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refWorld.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refWorld.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refMatlab.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refWorld.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    10
+    10
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    10
+    10
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    11    10    10
+    10    11    10
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    10
+    10
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    11    10    10
+    10    11    10
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    10
+    10
+     9
+
+Equipment.sysShutter.refWorld.versor
+    11    10    10
+    10    11    10
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    10
+    10
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    11    10    10
+    10    11    10
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    10
+    10
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    10
+    10
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    10
+    10
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    11    10    10
+    10     9    10
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    10
+    10
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    11    10    10
+    10     9    10
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+    9.0000    9.0000    8.0000
+
+Equipment.sysShutter.refWorld.orig
+    10
+    10
+     9
+
+Equipment.sysShutter.refWorld.versor
+    11    10    10
+    10     9    10
+     9     9     8
+
+Equipment.sysShutter.refMatlab.orig
+    10
+    10
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    11    10    10
+    10     9    10
+     9     9     8
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    10
+    10
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    25
+    25
+    15
+
+Equipment.sysCustom.refMatlab.versor
+    26    25    25
+    25    26    25
+    15    15    16
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    10
+    10
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    11    10    10
+    10     9    10
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    25
+
+Equipment.sysAnodo.refMatlab.versor
+    26    25    25
+    25    24    25
+    25    25    24
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+    9.0000    9.0000    8.0000
+
+Equipment.sysShutter.refWorld.orig
+    10
+    10
+     9
+
+Equipment.sysShutter.refWorld.versor
+    11    10    10
+    10     9    10
+     9     9     8
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+    24
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    24    25
+    24    24    23
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+    15
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+    15    15    16
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    25
+    25
+    15
+
+Equipment.sysCustom.refMatlab.versor
+    26    25    25
+    25    26    25
+    15    15    16
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    10
+    10
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    11    10    10
+    10     9    10
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    25
+
+Equipment.sysAnodo.refMatlab.versor
+    26    25    25
+    25    24    25
+    25    25    24
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+    9.0000    9.0000    8.0000
+
+Equipment.sysShutter.refWorld.orig
+    10
+    10
+     9
+
+Equipment.sysShutter.refWorld.versor
+    11    10    10
+    10     9    10
+     9     9     8
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+    24
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    24    25
+    24    24    23
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    10
+    10
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    11    10    10
+    10    11    10
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+    15
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+    15    15    16
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+   200
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+   200   201   200
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+   210
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+   210   211   210
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000    0.0000    0.0000
+   -0.0000    1.0000    0.0000
+   10.0000   10.0000   11.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+   200
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    21    20    20
+   200   201   200
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+   210
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    31    30    30
+   210   211   210
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+    9.0000    9.0000    8.0000
+
+Equipment.sysShutter.refWorld.orig
+    20
+   200
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+   200   199   200
+     9     9     8
+
+Equipment.sysShutter.refMatlab.orig
+    30
+   210
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+   210   209   210
+     9     9     8
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    20
+   200
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    21    20    20
+   200   201   200
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    30
+   210
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    31    30    30
+   210   211   210
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000    0.0000    0.0000
+   -0.0000    1.0000    0.0000
+   10.0000   10.0000   11.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    21    20    20
+    20    21    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    31    30    30
+    30    31    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+    1.0000         0         0
+         0   -1.0000   -0.0000
+    9.0000    9.0000    8.0000
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    19    20
+     9     9     8
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    29    30
+     9     9     8
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000    0.0000    0.0000
+   -0.0000    1.0000    0.0000
+   10.0000   10.0000   11.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    21    20    20
+    20    21    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    31    30    30
+    30    31    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    19    20    20
+    20    21    20
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    29    30    30
+    30    31    30
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    19    20    20
+    20    21    20
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    29    30    30
+    30    31    30
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   -1.0000         0    0.0000
+         0    1.0000         0
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    19    20    20
+    20    21    20
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    29    30    30
+    30    31    30
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    35
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    36    35    35
+    35    36    35
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    21    20    20
+    20    21    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    31    30    30
+    30    31    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    35
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    36    35    35
+    35    36    35
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    19    20    20
+    20    19    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    29    30    30
+    30    29    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    19    20    20
+    20    19    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    29    30    30
+    30    29    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    21    20    20
+    20    21    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    31    30    30
+    30    31    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    35
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    36    35    35
+    35    36    35
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     1     0     0
+     0     1     0
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    19    20    20
+    20    19    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    29    30    30
+    30    29    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+     1     0     0
+     0     1     0
+     9     9    10
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    19    20    20
+    20    19    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    29    30    30
+    30    29    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+   10.0000   10.0000   11.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    21    20    20
+    20    21    20
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    31    30    30
+    30    31    30
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+    9.0000    9.0000   10.0000
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     0
+     0
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    1.0000   -0.0000   -0.0000
+   -0.0000   -1.0000    0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refWorld.orig
+    20
+    20
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    19    20    20
+    20    21    20
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    30
+    30
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    29    30    30
+    30    31    30
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     0
+     0
+     9
+
+Equipment.sysShutter.refCustom.versor
+   -1.0000   -0.0000         0
+    0.0000   -1.0000         0
+    9.0000    9.0000   10.0000
+
+Equipment.sysShutter.refWorld.orig
+    20
+    20
+     9
+
+Equipment.sysShutter.refWorld.versor
+    21    20    20
+    20    21    20
+     9     9    10
+
+Equipment.sysShutter.refMatlab.orig
+    30
+    30
+     9
+
+Equipment.sysShutter.refMatlab.versor
+    31    30    30
+    30    31    30
+     9     9    10
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     8
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     8     8     9
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     8
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     8     8     9
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     8
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     8     8     9
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     4     5     5
+     5     4     5
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    16    15    15
+    15    16    15
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    26    25    25
+    25    26    25
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     8
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     8     8     9
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     8
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     8     8     9
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     8
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     8     8     9
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     4     5     5
+     5     6     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    16    15    15
+    15    14    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    26    25    25
+    25    24    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     8
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     8     8     9
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     8
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     8     8     9
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     8
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     8     8     9
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     8
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     8     8     9
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     8
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     8     8     9
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     8
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     8     8     9
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     4     5     5
+     5     4     5
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    16    15    15
+    15    16    15
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    26    25    25
+    25    26    25
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     8
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     8     8     9
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     8
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     8     8     9
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     8
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     8     8     9
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     5     6     5
+     6     5     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    15    14    15
+    14    15    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    25    24    25
+    24    25    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     8
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     8     8     9
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     8
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     8     8     9
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     8
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     8     8     9
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     5     6     5
+     6     5     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    15    14    15
+    14    15    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    25    24    25
+    24    25    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     5     5     6
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     5     5     6
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     5     5     6
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     5     6     5
+     6     5     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    15    14    15
+    14    15    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    25    24    25
+    24    25    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     5     5     6
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    16    15    15
+    15    16    15
+     5     5     6
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    26    25    25
+    25    26    25
+     5     5     6
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     6     5
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    26    25    25
+    25    26    25
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    35
+    35
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    36    35    35
+    35    36    35
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     4     5     5
+     5     4     5
+     5     5     6
+
+Equipment.sysShutter.refWorld.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refWorld.versor
+    24    25    25
+    25    24    25
+     5     5     6
+
+Equipment.sysShutter.refMatlab.orig
+    35
+    35
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    34    35    35
+    35    34    35
+     5     5     6
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    35
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    34    35    35
+    35    34    35
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     6     5
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    26    25    25
+    25    26    25
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    35
+    35
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    36    35    35
+    35    36    35
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     6     5
+     5     5     6
+
+Equipment.sysShutter.refWorld.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refWorld.versor
+    26    25    25
+    25    26    25
+     5     5     6
+
+Equipment.sysShutter.refMatlab.orig
+    35
+    35
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    36    35    35
+    35    36    35
+     5     5     6
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    35
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    34    35    35
+    35    34    35
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     6     5
+    10    10    11
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    14    15
+    10    10    11
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    24    25
+    10    10    11
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     6     5
+     5     5     6
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    14    15
+     5     5     6
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    24    25
+     5     5     6
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    16    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    26    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    16    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    26    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+    6.0000    5.0000    5.0000
+    5.0000    4.1340    4.5000
+    5.0000    5.5000    4.1340
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+   15.0000   15.8660   15.5000
+    5.0000    5.5000    4.1340
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+   24.0000   25.0000   25.0000
+   25.0000   25.8660   25.5000
+    5.0000    5.5000    4.1340
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    16    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    26    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+    6.0000    5.0000    5.0000
+    5.0000    4.1340    5.5000
+    5.0000    4.5000    4.1340
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+   15.0000   15.8660   14.5000
+    5.0000    4.5000    4.1340
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+   24.0000   25.0000   25.0000
+   25.0000   25.8660   24.5000
+    5.0000    4.5000    4.1340
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    16    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    26    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     6     5     5
+     5     6     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    14    15    15
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    16    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    26    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    6.0000    5.0000    5.0000
+    5.0000    4.0000    5.0000
+         0    0.0000   -1.0000
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+   14.0000   15.0000   15.0000
+   15.0000   16.0000   15.0000
+         0    0.0000   -1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+   24.0000   25.0000   25.0000
+   25.0000   26.0000   25.0000
+         0    0.0000   -1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    20    19    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    30    29    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    15
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    14    15    15
+    15    16    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    25    26    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    15
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    14    15    15
+    15    16    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    25    26    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    15
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    16    15    15
+    15    16    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    25    26    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    20
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    20    21    20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    30
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    30    31    30
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    25
+    25
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    26    25    25
+    25    24    25
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    35
+    35
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    36    35    35
+    35    34    35
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    25
+    25
+     5
+
+Equipment.sysShutter.refWorld.versor
+    26    25    25
+    25    24    25
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    35
+    35
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    36    35    35
+    35    34    35
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    25
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    24    25    25
+    25    24    25
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    35
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    34    35    35
+    35    34    35
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+   -20
+   -20
+     0
+
+Equipment.sysCustom.refWorld.versor
+   -19   -20   -20
+   -20   -19   -20
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+   -10
+   -10
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    -9   -10   -10
+   -10    -9   -10
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+   -15
+   -15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+   -14   -15   -15
+   -15   -16   -15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    -5
+    -5
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    -4    -5    -5
+    -5    -6    -5
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   -15
+   -15
+     5
+
+Equipment.sysShutter.refWorld.versor
+   -14   -15   -15
+   -15   -16   -15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    -5
+    -5
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    -4    -5    -5
+    -5    -6    -5
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+   -15
+   -15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+   -16   -15   -15
+   -15   -16   -15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    -5
+    -5
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    -6    -5    -5
+    -5    -6    -5
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+   -20
+   -10
+     0
+
+Equipment.sysCustom.refWorld.versor
+   -19   -20   -20
+   -10    -9   -10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+   -10
+     0
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    -9   -10   -10
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+   -15
+    -5
+    10
+
+Equipment.sysAnodo.refWorld.versor
+   -14   -15   -15
+    -5    -6    -5
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    -5
+     5
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    -4    -5    -5
+     5     4     5
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   -15
+    -5
+     5
+
+Equipment.sysShutter.refWorld.versor
+   -14   -15   -15
+    -5    -6    -5
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    -5
+     5
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    -4    -5    -5
+     5     4     5
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+   -15
+    -5
+     0
+
+Equipment.sysDetettore.refWorld.versor
+   -16   -15   -15
+    -5    -6    -5
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    -5
+     5
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    -6    -5    -5
+     5     4     5
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+   -20
+   -10
+     0
+
+Equipment.sysCustom.refWorld.versor
+   -19   -20   -20
+   -10    -9   -10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+   -15
+    -5
+    10
+
+Equipment.sysAnodo.refWorld.versor
+   -14   -15   -15
+    -5    -6    -5
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+   25.0000
+   15.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+   24.0000   25.0000   25.0000
+   15.0000   16.0000   15.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   -15
+    -5
+     5
+
+Equipment.sysShutter.refWorld.versor
+   -14   -15   -15
+    -5    -6    -5
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+   25.0000
+   15.0000
+    5.0000
+
+Equipment.sysShutter.refMatlab.versor
+   24.0000   25.0000   25.0000
+   15.0000   16.0000   15.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+   -15
+    -5
+     0
+
+Equipment.sysDetettore.refWorld.versor
+   -16   -15   -15
+    -5    -6    -5
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+   25.0000
+   15.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   26.0000   25.0000   25.0000
+   15.0000   16.0000   15.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+   -20
+   -10
+     0
+
+Equipment.sysCustom.refWorld.versor
+   -19   -20   -20
+   -10    -9   -10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+   -10
+     0
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    -9   -10   -10
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+   -15
+    -5
+    10
+
+Equipment.sysAnodo.refWorld.versor
+   -14   -15   -15
+    -5    -6    -5
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    -5
+     5
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    -4    -5    -5
+     5     4     5
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   -15
+    -5
+     5
+
+Equipment.sysShutter.refWorld.versor
+   -14   -15   -15
+    -5    -6    -5
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    -5
+     5
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    -4    -5    -5
+     5     4     5
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+   -15
+    -5
+     0
+
+Equipment.sysDetettore.refWorld.versor
+   -16   -15   -15
+    -5    -6    -5
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    -5
+     5
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    -6    -5    -5
+     5     4     5
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    21    20    20
+    10    11    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    31    30    30
+    20    21    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+    25
+    15
+    10
+
+Equipment.sysAnodo.refWorld.versor
+    26    25    25
+    15    14    15
+    10    10     9
+
+Equipment.sysAnodo.refMatlab.orig
+    35
+    25
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    36    35    35
+    25    24    25
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refWorld.versor
+    26    25    25
+    15    14    15
+     5     5     4
+
+Equipment.sysShutter.refMatlab.orig
+    35
+    25
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    36    35    35
+    25    24    25
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+    25
+    15
+     0
+
+Equipment.sysDetettore.refWorld.versor
+    24    25    25
+    15    14    15
+     0     0     1
+
+Equipment.sysDetettore.refMatlab.orig
+    35
+    25
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    34    35    35
+    25    24    25
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+     5
+     5
+    10
+
+Equipment.sysAnodo.refCustom.versor
+     6     5     5
+     5     4     5
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+   15.0000
+    5.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+    25
+    15
+    10
+
+Equipment.sysAnodo.refMatlab.versor
+    24    25    25
+    15    16    15
+    10    10     9
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+   15.0000
+    5.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   16.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    15
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    15    16    15
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+    10
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+    10     9    10
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    0.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    0.0000    1.0000    0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   10.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   10.0000   11.0000   10.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+     5
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+     4     5     5
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+   15.0000
+    5.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   16.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+    25
+    15
+     0
+
+Equipment.sysDetettore.refMatlab.versor
+    26    25    25
+    15    16    15
+     0     0     1
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+    10
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+    10     9    10
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    0.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    0.0000    1.0000    0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   10.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   10.0000   11.0000   10.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     5
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    19    20    20
+     5     4     5
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    5.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000         0         0
+    5.0000    6.0000    5.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   15.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   11.0000   10.0000   10.0000
+   15.0000   16.0000   15.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+    10
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+    10     9    10
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    0.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    0.0000    1.0000    0.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   10.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   10.0000   11.0000   10.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    19    20    20
+     8     7     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000         0         0
+    2.0000    3.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   11.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+     8     7     8
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    19    20    20
+     8     7     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000         0         0
+    2.0000    3.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   11.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+     8     7     8
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    19    20    20
+     8     7     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000         0         0
+    2.0000    3.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   11.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+     8     7     8
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+     5
+     5
+     5
+
+Equipment.sysShutter.refCustom.versor
+     6     5     5
+     5     4     5
+     5     5     4
+
+Equipment.sysShutter.refWorld.orig
+   15.0000
+    5.0000
+    5.0000
+
+Equipment.sysShutter.refWorld.versor
+   14.0000   15.0000   15.0000
+    5.0000    6.0000    5.0000
+    5.0000    5.0000    4.0000
+
+Equipment.sysShutter.refMatlab.orig
+    25
+    15
+     5
+
+Equipment.sysShutter.refMatlab.versor
+    24    25    25
+    15    16    15
+     5     5     4
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    19    20    20
+     8     7     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000         0         0
+    2.0000    3.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   11.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+     8     7     8
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    19    20    20
+     8     7     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+    1.0000         0         0
+    2.0000    3.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+   11.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+     8     7     8
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    21    20    20
+     8     9     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   -1.0000         0         0
+    2.0000    1.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   11.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+    21    20    20
+     8     7     8
+    10    10     9
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+   10.0000   10.0000    9.0000
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    21    20    20
+     8     9     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   -1.0000         0         0
+    2.0000    1.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   11.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   20.8660   20.0000   19.5000
+    8.0000    7.0000    8.0000
+    9.5000   10.0000    9.1340
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -0.8660         0    0.5000
+    2.0000    3.0000    2.0000
+    9.5000   10.0000    9.1340
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.1340   10.0000   10.5000
+   12.0000   13.0000   12.0000
+    9.5000   10.0000    9.1340
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    21    20    20
+     8     9     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   -1.0000         0         0
+    2.0000    1.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   11.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   20.9986   20.0000   19.9477
+    8.0000    7.0000    8.0000
+    9.9477   10.0000    9.0014
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -0.9986         0    0.0523
+    2.0000    3.0000    2.0000
+    9.9477   10.0000    9.0014
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0014   10.0000   10.0523
+   12.0000   13.0000   12.0000
+    9.9477   10.0000    9.0014
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    21    20    20
+     8     9     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   -1.0000         0         0
+    2.0000    1.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   11.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   20.9744   20.0000   19.7750
+    8.0000    7.0000    8.0000
+    9.7750   10.0000    9.0256
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -0.9744         0    0.2250
+    2.0000    3.0000    2.0000
+    9.7750   10.0000    9.0256
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0256   10.0000   10.2250
+   12.0000   13.0000   12.0000
+    9.7750   10.0000    9.0256
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    21    20    20
+     8     9     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   -1.0000         0         0
+    2.0000    1.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   11.0000   12.0000
+         0         0    1.0000
+
+Equipment.sysCustom.refCustom.orig
+     0
+     0
+     0
+
+Equipment.sysCustom.refCustom.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysCustom.refWorld.orig
+    20
+    10
+     0
+
+Equipment.sysCustom.refWorld.versor
+    19    20    20
+    10     9    10
+     0     0     1
+
+Equipment.sysCustom.refMatlab.orig
+    30
+    20
+     0
+
+Equipment.sysCustom.refMatlab.versor
+    29    30    30
+    20    19    20
+     0     0     1
+
+Equipment.sysAnodo.refAnodo.orig
+     0
+     0
+     0
+
+Equipment.sysAnodo.refAnodo.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysAnodo.refCustom.orig
+    20
+     8
+    10
+
+Equipment.sysAnodo.refCustom.versor
+   20.9744   20.0000   19.7750
+    8.0000    7.0000    8.0000
+    9.7750   10.0000    9.0256
+
+Equipment.sysAnodo.refWorld.orig
+         0
+    2.0000
+   10.0000
+
+Equipment.sysAnodo.refWorld.versor
+   -0.9744         0    0.2250
+    2.0000    3.0000    2.0000
+    9.7750   10.0000    9.0256
+
+Equipment.sysAnodo.refMatlab.orig
+   10.0000
+   12.0000
+   10.0000
+
+Equipment.sysAnodo.refMatlab.versor
+    9.0256   10.0000   10.2250
+   12.0000   13.0000   12.0000
+    9.7750   10.0000    9.0256
+
+Equipment.sysShutter.refShutter.orig
+     0
+     0
+     0
+
+Equipment.sysShutter.refShutter.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysShutter.refCustom.orig
+    20
+     8
+     8
+
+Equipment.sysShutter.refCustom.versor
+    21    20    20
+     8     7     8
+     8     8     7
+
+Equipment.sysShutter.refWorld.orig
+         0
+    2.0000
+    8.0000
+
+Equipment.sysShutter.refWorld.versor
+   -1.0000         0         0
+    2.0000    3.0000    2.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysShutter.refMatlab.orig
+   10.0000
+   12.0000
+    8.0000
+
+Equipment.sysShutter.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   13.0000   12.0000
+    8.0000    8.0000    7.0000
+
+Equipment.sysDetettore.refDetettore.orig
+     0
+     0
+     0
+
+Equipment.sysDetettore.refDetettore.versor
+     1     0     0
+     0     1     0
+     0     0     1
+
+Equipment.sysDetettore.refCustom.orig
+    20
+     8
+     0
+
+Equipment.sysDetettore.refCustom.versor
+    21    20    20
+     8     9     8
+     0     0     1
+
+Equipment.sysDetettore.refWorld.orig
+         0
+    2.0000
+         0
+
+Equipment.sysDetettore.refWorld.versor
+   -1.0000         0         0
+    2.0000    1.0000    2.0000
+         0         0    1.0000
+
+Equipment.sysDetettore.refMatlab.orig
+   10.0000
+   12.0000
+         0
+
+Equipment.sysDetettore.refMatlab.versor
+    9.0000   10.0000   10.0000
+   12.0000   11.0000   12.0000
+         0         0    1.0000
+
